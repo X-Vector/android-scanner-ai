@@ -62,7 +62,7 @@ pip install -r requirements.txt
    - Obtain your API key from [Google AI](https://aistudio.google.com/app/apikey) Studio and add it to the `config.py` file
 
 5. Configure Models in config.py:
-   - Set up your Gemini Model by referring to the (Gemini models)[https://ai.google.dev/gemini-api/docs/models] and configure it in the `config.py` file.
+   - Set up your Gemini Model by referring to the [Gemini models](https://ai.google.dev/gemini-api/docs/models) and configure it in the `config.py` file.
 
 
 ## Usage
